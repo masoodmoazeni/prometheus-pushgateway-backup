@@ -10,3 +10,6 @@ And execute the following command to execute the backup file
 ```
 bash backup.sh
 ```
+
+![Untitled](https://github.com/masoodmoazeni/prometheus-pushgateway-backup/assets/82110747/dde41783-9747-498e-8e5f-9d78be728da1)
+
